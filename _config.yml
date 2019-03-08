@@ -59,6 +59,7 @@ kramdown:
 
 
 # Disqus settings
+duoshuo_share: false
 disqus_username: ZoDipro
 
 # Netease settings
