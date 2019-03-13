@@ -59,8 +59,8 @@ kramdown:
 
 
 # Disqus settings
-duoshuo_share: false
-disqus_username: ZoDipro
+# duoshuo_share: false
+# disqus_username: ZoDipro
 
 # Netease settings
 netease_comment: false
