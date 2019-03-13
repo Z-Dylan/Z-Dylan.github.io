@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: 910824572@qq.com
 description: ".NET与画家 | 赵迪 | 这里是 @赵迪 的个人博客，与你一起发现更大的世界。"
 keyword: "赵迪, ZoD @ZoD, 赵迪的博客, ZoD Blog, 博客, 个人网站, 互联网, .NET, C#, 后端, 服务器"
-url: "https://iamzhaodi.top"              # your host, for absolute URL
+url: "https://zhaod.top"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -72,8 +72,8 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+# ga_track_id: ''            # Format: UA-xxxxxx-xx
+# ga_domain: 
 
 
 
