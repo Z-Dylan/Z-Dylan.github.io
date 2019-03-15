@@ -1,7 +1,7 @@
 {
-  "name": "Hux Blog",
-  "short_name": "Hux Blog",
-  "description": "About an engineer & designer who loves web.",
+  "name": "ZoD Blog",
+  "short_name": "ZoD Blog",
+  "description": ".NET Pro",
   "icons": [{
     "src": "icons/128.png",
     "sizes": "128x128",
